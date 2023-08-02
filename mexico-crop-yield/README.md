@@ -36,7 +36,10 @@ The following figures are some examples of the plots I made with the [scripts](h
 
 ## Model
 
-Due the nature of the dataset, where I have a lot different primary crop types, I choosed to modeling the cropy yield with `Random Forest Regressor` [package](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) due it's affordabilty to handle multi colinearity between features. The metrics achieved with this model where:
+Due the nature of the dataset, where I have a lot different primary crop types, I choosed to modeling the cropy yield with `Random Forest Regressor` [package](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) due it's affordabilty to handle multi colinearity between features. 
+
+### Metrics
+The metrics achieved with this model where:
 
 - R2 on training set:  0.995
 - R2 on test set:  0.974

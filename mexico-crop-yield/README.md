@@ -6,4 +6,6 @@ In this project I devoloped a Random Forest Regression model to predict the year
 
 You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
+
+Here is a picture of the [dashboard](https://lookerstudio.google.com/s/nMt8RVmK9J4) in `Looker Studio`

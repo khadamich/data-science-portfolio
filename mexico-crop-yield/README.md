@@ -2,6 +2,13 @@
 ## Author: Michell Martinez
 You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
 
+## Contents
+- [Introduction](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/README.md#introduction)
+  - [Dataset Overview](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/README.md#dataset-overview)
+- [Exploratory Data Analysis](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/README.md#exploratory-data-analysis)
+- [Model](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/README.md#model)
+- [Results](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/README.md#results)
+
 ## Introduction
 Agriculture feeds the global community. Discover what’s driving the production, trade, prices, and performance of corn, sugar, soybeans, pork, vegetable oils, and other food commodities, is one of the hottest topics in this area.
 

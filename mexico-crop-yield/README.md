@@ -6,8 +6,12 @@ In this project I devoloped a `Random Forest Regression` model to predict the ye
 
 You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
 
+### Dataset Overview
+- **Crop** (Categorical): more than 100 primary crop types.
+
 ## Exploratory Data Analysis
 
+The dataset for exploratory data analysis is in the [iterim](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/data/interim) folder.
 Here is a picture of the [dashboard](https://lookerstudio.google.com/s/nMt8RVmK9J4) in `Looker Studio` just to have a brief glance of the features and the behavior of the data.
 
 ![Screenshot 2023-08-02 at 12 53 26](https://github.com/khadamich/data-science-portfolio/assets/132023832/d26cab4c-927a-4849-ad2b-2c4e92b10e30)

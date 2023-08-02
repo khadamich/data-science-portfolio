@@ -35,3 +35,17 @@ Due the nature of the dataset, where I have a lot different primary crop types, 
 - R2 on test set:  0.974
 - mean_squared_error :  2120.43
 - mean_absolute_error :  1146.95
+
+The following figures show a brief overview of the behavior of the model on `test dataset`
+
+### Predict vs. True values (sorted)
+
+![Predict vs. True](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/predicted-vs-true.png)
+
+### Regression Scatter
+
+![Regression scatter](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/regression-scatter.png)
+
+### Histogram with residuals
+
+![residuals](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/residuals.png)

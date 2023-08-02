@@ -49,3 +49,15 @@ The following figures show a brief overview of the behavior of the model on `tes
 ### Histogram with residuals
 
 ![residuals](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/residuals.png)
+
+## Results
+
+The following figures shows the predictions of the model for some crops.
+
+![P1](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/total-crop-yield-prediction.png)
+
+![P2](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/prediction-Watermelons.png)
+
+![P3](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/prediction-Raspberries.png)
+
+![P4](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/prediction-Natural%20rubber%20in%20primary%20forms.png)

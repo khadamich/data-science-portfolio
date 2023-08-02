@@ -1,13 +1,18 @@
 # Mexico Crop Yield Modeling
+
+You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
+
 ## Introduction
 Agriculture feeds the global community. Discover what’s driving the production, trade, prices, and performance of corn, sugar, soybeans, pork, vegetable oils, and other food commodities, is one of the hottest topics in this area.
 
 In this project I devoloped a `Random Forest Regression` model to predict the yearly crop yield of the primary crops in Mexico. To do this, I made usage of the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data) dataset to get the crop yield for every primary crop produced in Mexico between 1990 and 2021, as well as the land usage and the pesticidades usage per crop area in the same period.
 
-You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
-
 ### Dataset Overview
+- **Year** (Numerical): from 1990 to 2021.
 - **Crop** (Categorical): more than 100 primary crop types.
+- **Crop Yield** (Numerical): kg/ha of crop production per year.
+- **Avg. Rainfall** (Numerical): Average mm of rainfall per year in Mexico.
+- **Tons of pesticides** (Numerical): total tons of pesticides used per year in Mexico.
 
 ## Exploratory Data Analysis
 

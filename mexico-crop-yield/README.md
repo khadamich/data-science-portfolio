@@ -8,4 +8,6 @@ You can see the [repository structure](https://github.com/khadamich/data-science
 
 ## Exploratory Data Analysis
 
-Here is a picture of the [dashboard](https://lookerstudio.google.com/s/nMt8RVmK9J4) in `Looker Studio`
+Here is a picture of the [dashboard](https://lookerstudio.google.com/s/nMt8RVmK9J4) in `Looker Studio` just to have a brief glance of the features and the behavior of the data.
+
+![Screenshot 2023-08-02 at 12 53 26](https://github.com/khadamich/data-science-portfolio/assets/132023832/d26cab4c-927a-4849-ad2b-2c4e92b10e30)

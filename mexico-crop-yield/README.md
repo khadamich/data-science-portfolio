@@ -1,5 +1,5 @@
 # Mexico Crop Yield Modeling
-
+## Author: Michell Martinez
 You can see the [repository structure](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/references/folder_structure.txt) in the [references](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/references) section.
 
 ## Introduction

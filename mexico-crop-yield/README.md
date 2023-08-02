@@ -15,5 +15,7 @@ Here is a picture of the [dashboard](https://lookerstudio.google.com/s/nMt8RVmK9
 The following figures are some examples of the plots I made with the [scripts](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/src/visualization/visualize.py) in the [visualization](https://github.com/khadamich/data-science-portfolio/tree/main/mexico-crop-yield/src/visualization) section.
 
 ![Lemons and Limes](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/Lemons%20and%20limes_crop_yield.png)
+
 ![Watermelons](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/Watermelons_crop_yield.png)
+
 ![Crop yield](https://github.com/khadamich/data-science-portfolio/blob/main/mexico-crop-yield/figures/total-crop-yield.png)

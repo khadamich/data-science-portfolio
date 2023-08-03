@@ -12,3 +12,5 @@ This repository contains some data science projects in different areas that I ha
 
 ## [Magnesium](https://github.com/khadamich/data-science-portfolio/tree/main/Magnesium)
 - A freelance project I got in Upwork where a student want me to apply `Artifical Neural Networks` to predict the corrosion energy and the corrosion current for different compunds having Magnesium.
+## [Chicago Crime Data](https://github.com/khadamich/data-science-portfolio/blob/main/Chicago-Crime-Data/Final_Assignment_SQL.ipynb):
+- Chicago Crime Data analyisis using `SQL`.
